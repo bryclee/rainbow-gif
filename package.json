@@ -1,0 +1,29 @@
+{
+  "name": "rainbow-gif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryclee/rainbow-gif.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryclee/rainbow-gif/issues"
+  },
+  "homepage": "https://github.com/bryclee/rainbow-gif#readme",
+  "dependencies": {
+    "file-type": "^16.5.3",
+    "jpeg-js": "^0.4.3",
+    "neuquant-js": "^0.2.1",
+    "omggif": "^1.0.10",
+    "pngjs": "^6.0.0"
+  }
+}
